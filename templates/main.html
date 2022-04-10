@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method="post">
+        <div class="flex-container">
+            <div class="image-holder">
+                <embed src="static/TPAMI2022_Viz/{{dict_data['imgPath']}}" width="100%" height="100%" />
+            </div>
+            <div class="form-content" >
+                <div class="form-header">
+                    <h3>Please fill your observation</h3>
+                    <br>
+                    {{dict_data['sentence']}}
+                </div>
+                <p></p>
+                <div class="form-row">
+                    <div class="form-holder-desc">Node relavence:</div>
+                    <div class="form-holder" width="200px">
+                        <input type="range" id="node_relavence" name="node_relavence" min="1" max="10" value="5" step="1" oninput="document.getElementById('node_relavence_parm').innerText = parseInt(this.value);node_relavence_parm=parseInt(this.value)"> 
+                    </div>
+                    <div class="form-holder-value">
+                        <span id="node_relavence_parm">5</span>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-holder-desc">Edge relavence: </div>
+                    <div class="form-holder">
+                        <input type="range" id="edge_relavence" name="edge_relavence" min="1" max="10" value="5" step="1" oninput="document.getElementById('edge_relavence_parm').innerText = parseInt(this.value);edge_relavence_parm=parseInt(this.value)"> 
+                    </div>
+                    <div class="form-holder-value">
+                        <span id="edge_relavence_parm">5</span>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-holder-desc">Completeness:</div>
+                    <div class="form-holder">
+                        <input type="range" id="completeness" name="completeness" min="1" max="10" value="5" step="1" oninput="document.getElementById('completeness_parm').innerText = parseInt(this.value);completeness_parm=parseInt(this.value)"> 
+                    </div>
+                    <div class="form-holder-value">
+                        <span id="completeness_parm">5</span>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-holder-desc">Accuracy: </div>
+                    <div class="form-holder">
+                        <input type="range" id="accuracy" name="accuracy" min="1" max="10" value="5" step="1" oninput="document.getElementById('accuracy_parm').innerText = parseInt(this.value);accuracy_parm=parseInt(this.value)"> 
+                    </div>
+                    <div class="form-holder-value">
+                        <span id="accuracy_parm">5</span>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <input type="submit" name="submit" class="button button-blue">
+                </div>
+            </div>
+        </div>
+
+
+</form>
+{% endblock %}

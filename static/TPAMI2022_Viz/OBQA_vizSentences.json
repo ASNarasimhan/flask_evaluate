@@ -1,0 +1,700 @@
+{
+    "1": {
+        "ID": "1953",
+        "concepts": [
+            "organism",
+            "specialize",
+            "protozoa"
+        ],
+        "imgPath": "./imgs/1953_viz.pdf",
+        "sentence": "which organism cannot specialize? protozoa"
+    },
+    "10": {
+        "ID": "9-280",
+        "concepts": [
+            "be",
+            "source",
+            "energy",
+            "grease"
+        ],
+        "imgPath": "./imgs/9-280_viz.pdf",
+        "sentence": "what is a source of energy? grease"
+    },
+    "11": {
+        "ID": "9-193",
+        "concepts": [
+            "be",
+            "sleeper"
+        ],
+        "imgPath": "./imgs/9-193_viz.pdf",
+        "sentence": "who would be healthier? a heavy sleeper"
+    },
+    "12": {
+        "ID": "8-322",
+        "concepts": [
+            "plant",
+            "be",
+            "source",
+            "tomatoes"
+        ],
+        "imgPath": "./imgs/8-322_viz.pdf",
+        "sentence": "plants are the source of tomatoes"
+    },
+    "13": {
+        "ID": "9-961",
+        "concepts": [
+            "living",
+            "things",
+            "create",
+            "progeny"
+        ],
+        "imgPath": "./imgs/9-961_viz.pdf",
+        "sentence": "living things can all create a progeny"
+    },
+    "14": {
+        "ID": "9-290",
+        "concepts": [
+            "stopped",
+            "mean",
+            "lack",
+            "velocity"
+        ],
+        "imgPath": "./imgs/9-290_viz.pdf",
+        "sentence": "stopped means lack of what? velocity"
+    },
+    "15": {
+        "ID": "829",
+        "concepts": [
+            "do",
+            "puppigerus",
+            "live",
+            "ocean"
+        ],
+        "imgPath": "",
+        "sentence": "where did puppigerus live? ocean"
+    },
+    "16": {
+        "ID": "854",
+        "concepts": [
+            "relationship",
+            "involve",
+            "inheritance",
+            "mother-daughter"
+        ],
+        "imgPath": "",
+        "sentence": "which relationship involves inheritance? mother-daughter"
+    },
+    "17": {
+        "ID": "1691",
+        "concepts": [
+            "magnets",
+            "be",
+            "attract",
+            "roof",
+            "nail"
+        ],
+        "imgPath": "./imgs/1691_viz.pdf",
+        "sentence": "magnets may be attracted to roofing nails"
+    },
+    "18": {
+        "ID": "7-1166",
+        "concepts": [
+            "animals",
+            "teeth",
+            "eat",
+            "seed"
+        ],
+        "imgPath": "./imgs/7-1166_viz.pdf",
+        "sentence": "animals without teeth sometimes eat seeds"
+    },
+    "19": {
+        "ID": "7-33",
+        "concepts": [
+            "create",
+            "valley",
+            "water"
+        ],
+        "imgPath": "./imgs/7-33_viz.pdf",
+        "sentence": "what creates a valley? water"
+    },
+    "2": {
+        "ID": "8-9",
+        "concepts": [
+            "magma",
+            "contain",
+            "particles",
+            "iron"
+        ],
+        "imgPath": "./imgs/8-9_viz.pdf",
+        "sentence": "magma contains particles of iron"
+    },
+    "20": {
+        "ID": "9-426",
+        "concepts": [
+            "eat",
+            "organisms",
+            "ingestors"
+        ],
+        "imgPath": "",
+        "sentence": "what eats other organisms? ingestors"
+    },
+    "21": {
+        "ID": "85",
+        "concepts": [
+            "become",
+            "weather",
+            "pumice"
+        ],
+        "imgPath": "./imgs/85_viz.pdf",
+        "sentence": "what becomes smoother through weathering? pumice"
+    },
+    "22": {
+        "ID": "9-1098",
+        "concepts": [
+            "rocks",
+            "contain",
+            "element",
+            "al"
+        ],
+        "imgPath": "./imgs/9-1098_viz.pdf",
+        "sentence": "rocks sometimes contain what? element al"
+    },
+    "23": {
+        "ID": "1764",
+        "concepts": [
+            "evaporation",
+            "water",
+            "become",
+            "snow"
+        ],
+        "imgPath": "./imgs/1764_viz.pdf",
+        "sentence": "after evaporation water becomes snow"
+    },
+    "24": {
+        "ID": "9-1054",
+        "concepts": [
+            "rocks",
+            "be",
+            "round",
+            "hydro-erosion"
+        ],
+        "imgPath": "",
+        "sentence": "rocks may be rounded by hydro-erosion"
+    },
+    "25": {
+        "ID": "9-684",
+        "concepts": [
+            "contain",
+            "moon",
+            "space",
+            "mass"
+        ],
+        "imgPath": "./imgs/9-684_viz.pdf",
+        "sentence": "what contains moons? space mass"
+    },
+    "26": {
+        "ID": "9-798",
+        "concepts": [
+            "animal",
+            "live",
+            "oxygen",
+            "loriciferans"
+        ],
+        "imgPath": "./imgs/9-798_viz.pdf",
+        "sentence": "what animal can live without oxygen loriciferans"
+    },
+    "27": {
+        "ID": "1348",
+        "concepts": [
+            "be",
+            "soda"
+        ],
+        "imgPath": "./imgs/1348_viz.pdf",
+        "sentence": "which is recyclable soda can"
+    },
+    "28": {
+        "ID": "7-957",
+        "concepts": [
+            "sea",
+            "turtle",
+            "share",
+            "space",
+            "sea",
+            "weed"
+        ],
+        "imgPath": "./imgs/7-957_viz.pdf",
+        "sentence": "sea turtles share space with sea weed"
+    },
+    "29": {
+        "ID": "1629",
+        "concepts": [
+            "do",
+            "city-dwellers",
+            "eat",
+            "crop"
+        ],
+        "imgPath": "",
+        "sentence": "what do city-dwellers eat? crops"
+    },
+    "3": {
+        "ID": "9-106",
+        "concepts": [
+            "plants",
+            "need",
+            "glucose"
+        ],
+        "imgPath": "./imgs/9-106_viz.pdf",
+        "sentence": "plants need light for glucose"
+    },
+    "30": {
+        "ID": "7-419",
+        "concepts": [
+            "pollinators",
+            "be",
+            "attract",
+            "aromas"
+        ],
+        "imgPath": "./imgs/7-419_viz.pdf",
+        "sentence": "pollinators are attracted to strong aromas"
+    },
+    "31": {
+        "ID": "1566",
+        "concepts": [
+            "taste",
+            "citrus"
+        ],
+        "imgPath": "./imgs/1566_viz.pdf",
+        "sentence": "lemonade tastes like citrus"
+    },
+    "32": {
+        "ID": "7-473",
+        "concepts": [
+            "do",
+            "scar",
+            "come",
+            "be",
+            "earn"
+        ],
+        "imgPath": "./imgs/7-473_viz.pdf",
+        "sentence": "do scars come naturally? they are earned"
+    },
+    "33": {
+        "ID": "7-815",
+        "concepts": [
+            "life",
+            "sustain",
+            "substances",
+            "be",
+            "require",
+            "zebras"
+        ],
+        "imgPath": "./imgs/7-815_viz.pdf",
+        "sentence": "life sustaining substances are required for zebras"
+    },
+    "34": {
+        "ID": "179",
+        "concepts": [
+            "require",
+            "respiration",
+            "use",
+            "energy",
+            "skunk"
+        ],
+        "imgPath": "./imgs/179_viz.pdf",
+        "sentence": "which requires respiration to use energy? skunk"
+    },
+    "35": {
+        "ID": "1596",
+        "concepts": [
+            "animals",
+            "require",
+            "output",
+            "plant"
+        ],
+        "imgPath": "./imgs/1596_viz.pdf",
+        "sentence": "animals require the environmental output of plants"
+    },
+    "36": {
+        "ID": "7-730",
+        "concepts": [
+            "reproduction",
+            "technique",
+            "supply",
+            "roe"
+        ],
+        "imgPath": "./imgs/7-730_viz.pdf",
+        "sentence": "the fish reproduction technique supplies roe"
+    },
+    "37": {
+        "ID": "7-578",
+        "concepts": [
+            "moon",
+            "have",
+            "raise",
+            "portion"
+        ],
+        "imgPath": "./imgs/7-578_viz.pdf",
+        "sentence": "the moon has raised portions"
+    },
+    "38": {
+        "ID": "215",
+        "concepts": [
+            "rabbit",
+            "have",
+            "thicker",
+            "fur",
+            "january"
+        ],
+        "imgPath": "./imgs/215_viz.pdf",
+        "sentence": "a rabbit has thicker fur in january"
+    },
+    "39": {
+        "ID": "719",
+        "concepts": [
+            "things",
+            "people",
+            "eat",
+            "come",
+            "farm"
+        ],
+        "imgPath": "./imgs/719_viz.pdf",
+        "sentence": "things people eat come from farms"
+    },
+    "4": {
+        "ID": "9-900",
+        "concepts": [
+            "tunnels",
+            "lead",
+            "soil"
+        ],
+        "imgPath": "./imgs/9-900_viz.pdf",
+        "sentence": "tunnels lead to less impacted soil"
+    },
+    "40": {
+        "ID": "9-819",
+        "concepts": [
+            "glucose",
+            "be",
+            "h2o"
+        ],
+        "imgPath": "./imgs/9-819_viz.pdf",
+        "sentence": "glucose is easily soluble in h2o"
+    },
+    "41": {
+        "ID": "1214",
+        "concepts": [
+            "sunlight",
+            "be",
+            "source",
+            "warmth"
+        ],
+        "imgPath": "./imgs/1214_viz.pdf",
+        "sentence": "sunlight is a source of warmth"
+    },
+    "42": {
+        "ID": "289",
+        "concepts": [
+            "jellyfish",
+            "abilities",
+            "exclude",
+            "sense",
+            "light"
+        ],
+        "imgPath": "./imgs/289_viz.pdf",
+        "sentence": "a jellyfish's abilities exclude sense light"
+    },
+    "43": {
+        "ID": "9-825",
+        "concepts": [
+            "scale",
+            "be",
+            "determine",
+            "bmi"
+        ],
+        "imgPath": "./imgs/9-825_viz.pdf",
+        "sentence": "a scale is necessary to determine bmi"
+    },
+    "44": {
+        "ID": "8-277",
+        "concepts": [
+            "aids",
+            "destroy",
+            "body",
+            "help",
+            "pathogens"
+        ],
+        "imgPath": "./imgs/8-277_viz.pdf",
+        "sentence": "aids destroys the body by helping pathogens"
+    },
+    "45": {
+        "ID": "951",
+        "concepts": [
+            "source",
+            "pollution",
+            "be",
+            "heap"
+        ],
+        "imgPath": "./imgs/951_viz.pdf",
+        "sentence": "one source of pollution are trash heaps"
+    },
+    "46": {
+        "ID": "8-197",
+        "concepts": [
+            "resources",
+            "include",
+            "sunlight"
+        ],
+        "imgPath": "./imgs/8-197_viz.pdf",
+        "sentence": "nonrenewable resources include all but sunlight"
+    },
+    "47": {
+        "ID": "1949",
+        "concepts": [
+            "moon",
+            "be",
+            "cause",
+            "orbit"
+        ],
+        "imgPath": "./imgs/1949_viz.pdf",
+        "sentence": "a full moon is caused by orbiting"
+    },
+    "48": {
+        "ID": "1064",
+        "concepts": [
+            "protect",
+            "environment",
+            "use",
+            "hairspray"
+        ],
+        "imgPath": "./imgs/1064_viz.pdf",
+        "sentence": "protect the environment by using less hairspray"
+    },
+    "49": {
+        "ID": "1939",
+        "concepts": [
+            "magnetism",
+            "cause",
+            "radiation",
+            "isotope",
+            "creation"
+        ],
+        "imgPath": "./imgs/1939_viz.pdf",
+        "sentence": "magnetism can cause radiation isotope creation"
+    },
+    "5": {
+        "ID": "230",
+        "concepts": [
+            "boil",
+            "boil",
+            "point",
+            "kool-aid"
+        ],
+        "imgPath": "",
+        "sentence": "what boils at the boiling point? kool-aid"
+    },
+    "50": {
+        "ID": "436",
+        "concepts": [
+            "find",
+            "gecko",
+            "ecuador"
+        ],
+        "imgPath": "./imgs/436_viz.pdf",
+        "sentence": "where might you find a gecko? ecuador"
+    },
+    "51": {
+        "ID": "1472",
+        "concepts": [
+            "insects",
+            "be",
+            "eat",
+            "amphibians"
+        ],
+        "imgPath": "./imgs/1472_viz.pdf",
+        "sentence": "insects are eaten by lizard-like amphibians"
+    },
+    "52": {
+        "ID": "689",
+        "concepts": [
+            "deer",
+            "live",
+            "log",
+            "cabin"
+        ],
+        "imgPath": "./imgs/689_viz.pdf",
+        "sentence": "deer often live near log cabins"
+    },
+    "53": {
+        "ID": "975",
+        "concepts": [
+            "fin",
+            "allow",
+            "brisker",
+            "movements"
+        ],
+        "imgPath": "./imgs/975_viz.pdf",
+        "sentence": "large fins allows for brisker movements"
+    },
+    "54": {
+        "ID": "9-287",
+        "concepts": [
+            "which",
+            "be",
+            "solution",
+            "coke"
+        ],
+        "imgPath": "./imgs/9-287_viz.pdf",
+        "sentence": "which of these is a solution? coke"
+    },
+    "55": {
+        "ID": "7-1035",
+        "concepts": [
+            "be",
+            "renew",
+            "sunflowers"
+        ],
+        "imgPath": "./imgs/7-1035_viz.pdf",
+        "sentence": "it is possible to renew sunflowers"
+    },
+    "56": {
+        "ID": "7-862",
+        "concepts": [
+            "grey",
+            "cloud",
+            "appear",
+            "hail"
+        ],
+        "imgPath": "./imgs/7-862_viz.pdf",
+        "sentence": "grey clouds often appear before hail"
+    },
+    "57": {
+        "ID": "927",
+        "concepts": [
+            "white",
+            "blood",
+            "cells",
+            "obliterate",
+            "pathogens"
+        ],
+        "imgPath": "./imgs/927_viz.pdf",
+        "sentence": "white blood cells obliterate pathogens"
+    },
+    "58": {
+        "ID": "9-847",
+        "concepts": [
+            "pulse",
+            "accelerate",
+            "run",
+            "pace",
+            "increase"
+        ],
+        "imgPath": "./imgs/9-847_viz.pdf",
+        "sentence": "pulse accelerates when running pace increases"
+    },
+    "59": {
+        "ID": "1015",
+        "concepts": [
+            "transpiration",
+            "contribute",
+            "rain"
+        ],
+        "imgPath": "./imgs/1015_viz.pdf",
+        "sentence": "transpiration can contribute to rain"
+    },
+    "6": {
+        "ID": "1981",
+        "concepts": [
+            "alligators",
+            "eat",
+            "gar"
+        ],
+        "imgPath": "./imgs/1981_viz.pdf",
+        "sentence": "alligators eat gar"
+    },
+    "60": {
+        "ID": "9-144",
+        "concepts": [
+            "clouds",
+            "be"
+        ],
+        "imgPath": "./imgs/9-144_viz.pdf",
+        "sentence": "clouds are quiet heavy"
+    },
+    "61": {
+        "ID": "851",
+        "concepts": [
+            "birds",
+            "reproduce",
+            "use",
+            "egg"
+        ],
+        "imgPath": "./imgs/851_viz.pdf",
+        "sentence": "birds reproduce using eggs"
+    },
+    "62": {
+        "ID": "655",
+        "concepts": [
+            "come",
+            "source",
+            "lumber"
+        ],
+        "imgPath": "./imgs/655_viz.pdf",
+        "sentence": "what comes directly from the source? lumber"
+    },
+    "63": {
+        "ID": "9-704",
+        "concepts": [
+            "emit",
+            "particles"
+        ],
+        "imgPath": "./imgs/9-704_viz.pdf",
+        "sentence": "a flashlight emits particles"
+    },
+    "64": {
+        "ID": "9-469",
+        "concepts": [
+            "phase",
+            "change",
+            "be",
+            "jello",
+            "transformation"
+        ],
+        "imgPath": "./imgs/9-469_viz.pdf",
+        "sentence": "a phase change is jello's transformation"
+    },
+    "7": {
+        "ID": "7-512",
+        "concepts": [
+            "cocoon",
+            "creation",
+            "occur",
+            "stage"
+        ],
+        "imgPath": "./imgs/7-512_viz.pdf",
+        "sentence": "cocoon creation occurs after the caterpillar stage"
+    },
+    "8": {
+        "ID": "7-384",
+        "concepts": [
+            "revolution",
+            "happen",
+            "mars",
+            "orbit",
+            "sun"
+        ],
+        "imgPath": "./imgs/7-384_viz.pdf",
+        "sentence": "revolution happens when mars orbits the sun"
+    },
+    "9": {
+        "ID": "7-1148",
+        "concepts": [
+            "pumpkin",
+            "pie",
+            "spice",
+            "come",
+            "plant"
+        ],
+        "imgPath": "./imgs/7-1148_viz.pdf",
+        "sentence": "pumpkin pie spice comes from plants"
+    }
+}

@@ -1,0 +1,41 @@
+<!doctype html>
+<html class="fixed" lang="en">
+  <head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+		<!-- Web Fonts  -->
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light" rel="stylesheet" type="text/css">
+
+		<!-- MATERIAL DESIGN ICONIC FONT -->
+		<link rel="stylesheet" href="static/fonts/material-design-iconic-font/css/material-design-iconic-font.css">
+
+		<!-- STYLE CSS -->
+		<link rel="stylesheet" href="static/css/style.css">
+
+    <title>{% block title %} {% endblock %}</title>
+  </head>
+  <body>
+		<div class="wrapper">
+      <div class="container">
+          {% for message in get_flashed_messages() %}
+              <div class="alert alert-danger">{{ message }}</div>
+          {% endfor %}
+          {% block content %} {% endblock %}
+      </div>
+    </div>
+
+		<!-- JQUERY -->
+		<script src="static/js/jquery-3.3.1.min.js"></script>
+
+		<!-- JQUERY STEP -->
+		<script src="statc/js/jquery.steps.js"></script>
+		<script src="static/js/main.js"></script>
+
+  </body>
+</html>
+
